@@ -1,0 +1,7 @@
+// Berfungsi untuk membantu menemukan directory dikedalaman apapun
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src/**/*"]
+}

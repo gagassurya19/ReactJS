@@ -1,3 +1,0 @@
-# ReactJS
-
-Tugas Sekolah XI
